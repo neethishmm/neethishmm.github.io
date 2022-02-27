@@ -18,17 +18,20 @@ Education
 Work experience
 ======
 * Subject Matter Expert : SPI Technologies India Pvt Ltd.
-  (May 2015- August 2016)
-  Role: Answering Physics  related questions (Upto Masters level)
+  *(May 2015- August 2016)
+  *Role: Answering Physics  related questions (Upto Masters level)
   
-Skills
+Honors and Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experienced in handling various lasers(He-Ne, Diode, Femto systems) and optics
+* Experienced in glass synthesis through melt quench method
+* Experienced in data acquistion and analysis of material characterization techniques- UV-Vis absorption, XRD, Raman, FTIR, Photoluminescence
+* Expereinced in using LABVIEW programming
+* Exams qualified
+  * National Eligiibility Test in Physical Sciences, 2017 June 
+  * GATE 2016 
+  * Gate 2019
+* Won best paper award in the International Conerence of Optics and Electro Optics (ICOL) 2019
 
 Publications
 ======
@@ -50,4 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elected as school representative of School of Physical Chemical and Applied sciences, Pondicherry University in 2014 
+* Volunteered in 1st World conference on
+* Volunteered in biodiversity conference
